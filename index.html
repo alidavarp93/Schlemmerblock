@@ -517,8 +517,8 @@ fetch(DATA_URL, {cache:"no-cache"})
     const local = location.protocol === "file:";
     fatal(local ? "Aus einer lokalen Datei geht das nicht"
                 : "Daten konnten nicht geladen werden",
-      local ? "Der Browser blockiert fetch() auf file://. Im Ordner "
-              "<code>python3 -m http.server 8000</code> starten und "
+      local ? "Der Browser blockiert fetch() auf file://. Im Ordner " +
+              "<code>python3 -m http.server 8000</code> starten und " +
               "<code>http://localhost:8000/</code> \u00f6ffnen."
             : `<code>${DATA_URL}</code> \u2013 ${err.message}`);
   });
