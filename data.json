@@ -1,0 +1,1733 @@
+{
+ "edition": "Karlsruhe & Umgebung 2025/2026",
+ "source": "gutscheinbuch.de",
+ "generated": "2026-08-25",
+ "categories": {
+  "restaurant": "Restaurant",
+  "special": "Restaurant spezial",
+  "fastfood": "Schnellrestaurant",
+  "breakfast": "Frühstück & Brunch",
+  "cafe": "Café & Eiscafé",
+  "drinks": "Bar & Cocktails",
+  "leisure": "Freizeit"
+ },
+ "cuisineLabels": {
+  "deutschland": "Deutsch",
+  "italien": "Italienisch",
+  "indien": "Indisch",
+  "china": "Chinesisch",
+  "tuerkei": "Türkisch",
+  "griechenland": "Griechisch",
+  "usa": "Amerikanisch",
+  "frankreich": "Französisch",
+  "polen": "Polnisch",
+  "eritrea": "Eritreisch",
+  "syrien": "Syrisch",
+  "ukraine": "Ukrainisch",
+  "rumaenien": "Rumänisch",
+  "kroatien": "Kroatisch",
+  "sri-lanka": "Srilankisch"
+ },
+ "items": [
+  {
+   "id": "191875",
+   "name": "L'Osteria Karlsruhe Durlacher Allee",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 4.61,
+   "street": "Durlacher Allee 73",
+   "address": "Durlacher Allee 73, 76131 Karlsruhe",
+   "plz": "76131",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/L-Osteria-Karlsruhe-Durlacher-Allee-76131-Karlsruhe_191875"
+  },
+  {
+   "id": "189440",
+   "name": "Indian Chowrasta",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "indien"
+   ],
+   "rating": 4.17,
+   "street": "Gartenstr. 56 a",
+   "address": "Gartenstr. 56 a, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Indian-Chowrasta-76133-Karlsruhe_189440"
+  },
+  {
+   "id": "189025",
+   "name": "Restaurant \"Asmara\"",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "eritrea"
+   ],
+   "rating": 3.67,
+   "street": "Kaiserallee 9",
+   "address": "Kaiserallee 9, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Asmara-76133-Karlsruhe_189025"
+  },
+  {
+   "id": "191873",
+   "name": "L'Osteria Karlsruhe Zähringerstr.",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 4.63,
+   "street": "Zähringerstr. 69",
+   "address": "Zähringerstr. 69, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/L-Osteria-Karlsruhe-Zaehringerstr-76133-Karlsruhe_191873"
+  },
+  {
+   "id": "191795",
+   "name": "La Cage – Sportsbar & Restaurant",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "italien",
+    "usa"
+   ],
+   "rating": 4.5,
+   "street": "Blumenstr. 25",
+   "address": "Blumenstr. 25, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/La-Cage-Sportsbar-Restaurant-76133-Karlsruhe_191795"
+  },
+  {
+   "id": "189236",
+   "name": "ristorante Portale 50",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 3.9,
+   "street": "Erbprinzenstr. 4-12",
+   "address": "Erbprinzenstr. 4-12, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/ristorante-Portale-50-76133-Karlsruhe_189236"
+  },
+  {
+   "id": "189449",
+   "name": "s'Häusle TSV Bulach",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "italien"
+   ],
+   "rating": 4.62,
+   "street": "St.-Florian-Str. 14",
+   "address": "St.-Florian-Str. 14, 76135 Karlsruhe",
+   "plz": "76135",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/s-Haeusle-TSV-Bulach-76135-Karlsruhe_189449"
+  },
+  {
+   "id": "188716",
+   "name": "China-Restaurant King Seng",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "china"
+   ],
+   "rating": 4.0,
+   "street": "Wilhelmstr. 19",
+   "address": "Wilhelmstr. 19, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/China-Restaurant-King-Seng-76137-Karlsruhe_188716"
+  },
+  {
+   "id": "189414",
+   "name": "Restaurant Antalya",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "tuerkei"
+   ],
+   "rating": 4.35,
+   "street": "Schützenstr. 10",
+   "address": "Schützenstr. 10, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Antalya-76137-Karlsruhe_189414"
+  },
+  {
+   "id": "189764",
+   "name": "Thasy Tamil Karlsruhe",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "indien"
+   ],
+   "rating": 4.25,
+   "street": "Wilhelmstr. 8",
+   "address": "Wilhelmstr. 8, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Thasy-Tamil-Karlsruhe-76137-Karlsruhe_189764"
+  },
+  {
+   "id": "192074",
+   "name": "Athidhi Indisches Restaurant - Karlsruhe",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "indien"
+   ],
+   "rating": 4.67,
+   "street": "Insterburger Str. 16 a",
+   "address": "Insterburger Str. 16 a, 76139 Karlsruhe",
+   "plz": "76139",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Athidhi-Indisches-Restaurant-Karlsruhe-76139-Karlsruhe_192074"
+  },
+  {
+   "id": "188811",
+   "name": "Ristorante e Pizzeria La Signora",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 4.8,
+   "street": "Bärenweg 33",
+   "address": "Bärenweg 33, 76149 Karlsruhe",
+   "plz": "76149",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Ristorante-e-Pizzeria-La-Signora-76149-Karlsruhe_188811"
+  },
+  {
+   "id": "189766",
+   "name": "Taverna Kalithea",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "griechenland",
+    "italien"
+   ],
+   "rating": 4.7,
+   "street": "An der Sandgrube 1",
+   "address": "An der Sandgrube 1, 76149 Karlsruhe",
+   "plz": "76149",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Taverna-Kalithea-76149-Karlsruhe_189766"
+  },
+  {
+   "id": "189762",
+   "name": "Bud & Terence",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "usa",
+    "italien"
+   ],
+   "rating": 4.46,
+   "street": "Griesbachstr. 2",
+   "address": "Griesbachstr. 2, 76185 Karlsruhe",
+   "plz": "76185",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Bud-Terence-76185-Karlsruhe_189762"
+  },
+  {
+   "id": "189593",
+   "name": "Restaurant Zwitscherstube",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "griechenland",
+    "deutschland"
+   ],
+   "rating": 4.42,
+   "street": "Kuhlager-Seele-Weg 3",
+   "address": "Kuhlager-Seele-Weg 3, 76199 Karlsruhe",
+   "plz": "76199",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Zwitscherstube-76199-Karlsruhe_189593"
+  },
+  {
+   "id": "189744",
+   "name": "Cafe Galerie",
+   "categories": [
+    "restaurant",
+    "breakfast"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.72,
+   "street": "Karlsruher Allee 1",
+   "address": "Karlsruher Allee 1, 76227 Karlsruhe",
+   "plz": "76227",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Cafe-Galerie-76227-Karlsruhe_189744"
+  },
+  {
+   "id": "191331",
+   "name": "AUBRAC Restaurant & Terrasse",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "frankreich"
+   ],
+   "rating": 4.63,
+   "street": "Zum Sportzentrum 3",
+   "address": "Zum Sportzentrum 3, 76228 Karlsruhe",
+   "plz": "76228",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/AUBRAC-Restaurant-Terrasse-76228-Karlsruhe_191331"
+  },
+  {
+   "id": "189425",
+   "name": "China Restaurant Long",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "china"
+   ],
+   "rating": 4.44,
+   "street": "Am Wasen 3",
+   "address": "Am Wasen 3, 76287 Rheinstetten",
+   "plz": "76287",
+   "city": "Rheinstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/China-Restaurant-Long-76287-Rheinstetten_189425"
+  },
+  {
+   "id": "189101",
+   "name": "Restaurant Schoko",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.92,
+   "street": "Hauptstr. 53",
+   "address": "Hauptstr. 53, 76287 Rheinstetten",
+   "plz": "76287",
+   "city": "Rheinstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Schoko-76287-Rheinstetten_189101"
+  },
+  {
+   "id": "189445",
+   "name": "Ristorante Pizzeria Pompei",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 4.0,
+   "street": "Dammfeld 1",
+   "address": "Dammfeld 1, 76287 Rheinstetten",
+   "plz": "76287",
+   "city": "Rheinstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Ristorante-Pizzeria-Pompei-76287-Rheinstetten_189445"
+  },
+  {
+   "id": "190808",
+   "name": "Polnisches Restaurant 'Bei Rudy'",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "polen",
+    "deutschland"
+   ],
+   "rating": 4.79,
+   "street": "Mühlenweg 4a",
+   "address": "Mühlenweg 4a, 76297 Stutensee",
+   "plz": "76297",
+   "city": "Stutensee",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Polnisches-Restaurant-Bei-Rudy-76297-Stutensee_190808"
+  },
+  {
+   "id": "192873",
+   "name": "Restaurant Waldblick",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "tuerkei",
+    "deutschland"
+   ],
+   "rating": 4.4,
+   "street": "Am Kirschendeich 5",
+   "address": "Am Kirschendeich 5, 76351 Linkenheim-Hochstetten",
+   "plz": "76351",
+   "city": "Linkenheim-Hochstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Waldblick-76351-Linkenheim-Hochstetten_192873"
+  },
+  {
+   "id": "190806",
+   "name": "Bonito Restaurant - Bistro - Bar",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "italien"
+   ],
+   "rating": 4.71,
+   "street": "Sézanner Str. 82",
+   "address": "Sézanner Str. 82, 76316 Malsch",
+   "plz": "76316",
+   "city": "Malsch",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Bonito-Restaurant-Bistro-Bar-76316-Malsch_190806"
+  },
+  {
+   "id": "190807",
+   "name": "Hotel Ristorante Puccini",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien"
+   ],
+   "rating": 4.81,
+   "street": "Gerwigstr. 4",
+   "address": "Gerwigstr. 4, 76437 Rastatt",
+   "plz": "76437",
+   "city": "Rastatt",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Hotel-Ristorante-Puccini-76437-Rastatt_190807"
+  },
+  {
+   "id": "194481",
+   "name": "Winkler Hofstüble",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "ukraine"
+   ],
+   "rating": 4.79,
+   "street": "Hofstr. 1",
+   "address": "Hofstr. 1, 76571 Gaggenau",
+   "plz": "76571",
+   "city": "Gaggenau",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Winkler-Hofstueble-76571-Gaggenau_194481"
+  },
+  {
+   "id": "192870",
+   "name": "Restaurant Zum alten Schweden",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.33,
+   "street": "Dobeltal 30",
+   "address": "Dobeltal 30, 76332 Bad Herrenalb",
+   "plz": "76332",
+   "city": "Bad Herrenalb",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Zum-alten-Schweden-76332-Bad-Herrenalb_192870"
+  },
+  {
+   "id": "192872",
+   "name": "Restaurant Akropolis",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "griechenland"
+   ],
+   "rating": 4.3,
+   "street": "Hauptstr. 71",
+   "address": "Hauptstr. 71, 75217 Birkenfeld",
+   "plz": "75217",
+   "city": "Birkenfeld",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Akropolis-75217-Birkenfeld_192872"
+  },
+  {
+   "id": "190810",
+   "name": "Gaststätte Saalbachstadion",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "deutschland",
+    "italien"
+   ],
+   "rating": 4.55,
+   "street": "Saalbachstr. 23",
+   "address": "Saalbachstr. 23, 75015 Bretten",
+   "plz": "75015",
+   "city": "Bretten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Gaststaette-Saalbachstadion-75015-Bretten_190810"
+  },
+  {
+   "id": "194482",
+   "name": "Ristorante & Pizzeria Casa nostra",
+   "categories": [
+    "restaurant"
+   ],
+   "cuisines": [
+    "italien",
+    "deutschland",
+    "rumaenien"
+   ],
+   "rating": 4.43,
+   "street": "Hauptstr. 93",
+   "address": "Hauptstr. 93, 76479 Steinmauern",
+   "plz": "76479",
+   "city": "Steinmauern",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Ristorante-Pizzeria-Casa-nostra-76479-Steinmauern_194482"
+  },
+  {
+   "id": "193639",
+   "name": "Universum City Karlsruhe",
+   "categories": [
+    "special",
+    "leisure"
+   ],
+   "cuisines": [
+    "usa"
+   ],
+   "rating": 4.5,
+   "street": "Kaiserstr. 152-154",
+   "address": "Kaiserstr. 152-154, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Universum-City-Karlsruhe-76133-Karlsruhe_193639"
+  },
+  {
+   "id": "194480",
+   "name": "Flammaurant „Zur Traube“",
+   "categories": [
+    "special"
+   ],
+   "cuisines": [
+    "deutschland",
+    "frankreich"
+   ],
+   "rating": 4.91,
+   "street": "Lindenstr. 10",
+   "address": "Lindenstr. 10, 76571 Gaggenau",
+   "plz": "76571",
+   "city": "Gaggenau",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Flammaurant-Zur-Traube-76571-Gaggenau_194480"
+  },
+  {
+   "id": "194483",
+   "name": "Eventlokal Birdland",
+   "categories": [
+    "special"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.25,
+   "street": "Im Mühlhag - an der K 3575",
+   "address": "Im Mühlhag - an der K 3575, 76709 Kronau",
+   "plz": "76709",
+   "city": "Kronau",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Eventlokal-Birdland-76709-Kronau_194483"
+  },
+  {
+   "id": "188835",
+   "name": "Bowlwerk Karlsruhe",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "deutschland",
+    "usa"
+   ],
+   "rating": 4.9,
+   "street": "Bürgerstr. 9a",
+   "address": "Bürgerstr. 9a, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Bowlwerk-Karlsruhe-76133-Karlsruhe_188835"
+  },
+  {
+   "id": "191934",
+   "name": "Hendl Cube Karlsruhe",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.5,
+   "street": "Kaiserallee 69",
+   "address": "Kaiserallee 69, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Hendl-Cube-Karlsruhe-76133-Karlsruhe_191934"
+  },
+  {
+   "id": "190687",
+   "name": "Pizza Hut",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "usa"
+   ],
+   "rating": 3.2,
+   "street": "Erbprinzenstr. 34",
+   "address": "Erbprinzenstr. 34, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Pizza-Hut-76133-Karlsruhe_190687"
+  },
+  {
+   "id": "192874",
+   "name": "Restaurant Brasserie Pforzheim",
+   "categories": [
+    "fastfood",
+    "breakfast",
+    "cafe"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.53,
+   "street": "Wilhelm-Becker-Str. 15",
+   "address": "Wilhelm-Becker-Str. 15, 75179 Pforzheim",
+   "plz": "75179",
+   "city": "Pforzheim",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Restaurant-Brasserie-Pforzheim-75179-Pforzheim_192874"
+  },
+  {
+   "id": "192879",
+   "name": "Globus Wiesental",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "deutschland"
+   ],
+   "rating": 4.68,
+   "street": "Hambrücker Landstr. 4",
+   "address": "Hambrücker Landstr. 4, 68753 Waghäusel",
+   "plz": "68753",
+   "city": "Waghäusel",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Globus-Wiesental-68753-Waghaeusel_192879"
+  },
+  {
+   "id": "192049",
+   "name": "Just Fresh Restaurant",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "syrien"
+   ],
+   "rating": 4.56,
+   "street": "Kaiserstr. 66",
+   "address": "Kaiserstr. 66, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Just-Fresh-Restaurant-76133-Karlsruhe_192049"
+  },
+  {
+   "id": "189797",
+   "name": "MA'LOA Hawaiian Poké Bowl Karlsruhe",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "usa"
+   ],
+   "rating": 4.55,
+   "street": "Karl-Friedrich-Str. 26",
+   "address": "Karl-Friedrich-Str. 26, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/MA-LOA-Hawaiian-Pok-Bowl-Karlsruhe-76133-Karlsruhe_189797"
+  },
+  {
+   "id": "190811",
+   "name": "Burger King",
+   "categories": [
+    "fastfood"
+   ],
+   "cuisines": [
+    "usa"
+   ],
+   "rating": 4.17,
+   "street": "Kammerforststr. 3",
+   "address": "Kammerforststr. 3, 76646 Bruchsal",
+   "plz": "76646",
+   "city": "Bruchsal",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Burger-King-76646-Bruchsal_190811"
+  },
+  {
+   "id": "191676",
+   "name": "Leonardo Hotel Karlsruhe",
+   "categories": [
+    "breakfast"
+   ],
+   "cuisines": [],
+   "rating": 4.2,
+   "street": "Ettlinger Str. 23",
+   "address": "Ettlinger Str. 23, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Leonardo-Hotel-Karlsruhe-76137-Karlsruhe_191676"
+  },
+  {
+   "id": "190803",
+   "name": "Schlosshotel Karlsruhe",
+   "categories": [
+    "breakfast"
+   ],
+   "cuisines": [],
+   "rating": 4.89,
+   "street": "Bahnhofplatz 2",
+   "address": "Bahnhofplatz 2, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Schlosshotel-Karlsruhe-76137-Karlsruhe_190803"
+  },
+  {
+   "id": "190854",
+   "name": "Café Cielo",
+   "categories": [
+    "breakfast"
+   ],
+   "cuisines": [],
+   "rating": 4.89,
+   "street": "Pfinztalstr. 56 a",
+   "address": "Pfinztalstr. 56 a, 76227 Karlsruhe",
+   "plz": "76227",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Caf-Cielo-76227-Karlsruhe_190854"
+  },
+  {
+   "id": "190670",
+   "name": "Wonkas",
+   "categories": [
+    "breakfast",
+    "cafe"
+   ],
+   "cuisines": [],
+   "rating": 4.43,
+   "street": "Rappenwörthstr. 45 d",
+   "address": "Rappenwörthstr. 45 d, 76287 Rheinstetten",
+   "plz": "76287",
+   "city": "Rheinstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Wonkas-76287-Rheinstetten_190670"
+  },
+  {
+   "id": "189464",
+   "name": "Eiscafe Casal",
+   "categories": [
+    "cafe"
+   ],
+   "cuisines": [],
+   "rating": 4.83,
+   "street": "Kaiserstr. 124 c",
+   "address": "Kaiserstr. 124 c, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Eiscafe-Casal-76133-Karlsruhe_189464"
+  },
+  {
+   "id": "190908",
+   "name": "Leo Lounge 23",
+   "categories": [
+    "drinks"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Ettlinger Str. 23",
+   "address": "Ettlinger Str. 23, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Leo-Lounge-23-76137-Karlsruhe_190908"
+  },
+  {
+   "id": "188852",
+   "name": "Schlossbar Karlsruhe",
+   "categories": [
+    "drinks"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Bahnhofplatz 2",
+   "address": "Bahnhofplatz 2, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Schlossbar-Karlsruhe-76137-Karlsruhe_188852"
+  },
+  {
+   "id": "192880",
+   "name": "Cheers Café • Bar",
+   "categories": [
+    "drinks"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Viktoriastr. 5",
+   "address": "Viktoriastr. 5, 76646 Bruchsal",
+   "plz": "76646",
+   "city": "Bruchsal",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Cheers-Caf-Bar-76646-Bruchsal_192880"
+  },
+  {
+   "id": "192907",
+   "name": "Jakobus-Theater e.V.",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Kaiserallee 11",
+   "address": "Kaiserallee 11, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Jakobus-Theater-e-V-76133-Karlsruhe_192907"
+  },
+  {
+   "id": "190211",
+   "name": "Filmtheater Schauburg",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Marienstr. 16",
+   "address": "Marienstr. 16, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Filmtheater-Schauburg-76137-Karlsruhe_190211"
+  },
+  {
+   "id": "188756",
+   "name": "Theater \"Die Käuze\"",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Königsberger Str. 9",
+   "address": "Königsberger Str. 9, 76139 Karlsruhe",
+   "plz": "76139",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Theater-Die-Kaeuze-76139-Karlsruhe_188756"
+  },
+  {
+   "id": "190672",
+   "name": "Improtheater Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Gellertstr. 12",
+   "address": "Gellertstr. 12, 76185 Karlsruhe",
+   "plz": "76185",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Improtheater-Karlsruhe-76185-Karlsruhe_190672"
+  },
+  {
+   "id": "189589",
+   "name": "Pfitzenmeier Premium Resort Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Rudolf-Freytag-Str. 6",
+   "address": "Rudolf-Freytag-Str. 6, 76189 Karlsruhe",
+   "plz": "76189",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Pfitzenmeier-Premium-Resort-Karlsruhe-76189-Karlsruhe_189589"
+  },
+  {
+   "id": "190804",
+   "name": "Pedalkart",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Ettlinger Allee 3",
+   "address": "Ettlinger Allee 3, 76199 Karlsruhe",
+   "plz": "76199",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Pedalkart-76199-Karlsruhe_190804"
+  },
+  {
+   "id": "191741",
+   "name": "Krimi-Trail Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "An der Stadtmauer 11 - Startpunkt",
+   "address": "An der Stadtmauer 11 - Startpunkt, 76227 Karlsruhe",
+   "plz": "76227",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Krimi-Trail-Karlsruhe-76227-Karlsruhe_191741"
+  },
+  {
+   "id": "190674",
+   "name": "The Rock Boulderhalle",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Erlachseeweg 1 - beim Oberwaldstadion",
+   "address": "Erlachseeweg 1 - beim Oberwaldstadion, 76227 Karlsruhe",
+   "plz": "76227",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/The-Rock-Boulderhalle-76227-Karlsruhe_190674"
+  },
+  {
+   "id": "189454",
+   "name": "Adrenalin",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Karlsruher Str. 79",
+   "address": "Karlsruher Str. 79, 76287 Rheinstetten",
+   "plz": "76287",
+   "city": "Rheinstetten",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Adrenalin-76287-Rheinstetten_189454"
+  },
+  {
+   "id": "192340",
+   "name": "Boulderwelt Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.56,
+   "street": "Karlstr. 14",
+   "address": "Karlstr. 14, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Boulderwelt-Karlsruhe-76133-Karlsruhe_192340"
+  },
+  {
+   "id": "190848",
+   "name": "Rotherma",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.81,
+   "street": "Badstr. 9",
+   "address": "Badstr. 9, 76571 Gaggenau",
+   "plz": "76571",
+   "city": "Gaggenau",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Rotherma-76571-Gaggenau_190848"
+  },
+  {
+   "id": "194485",
+   "name": "Escaperooms Pforzheim",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.67,
+   "street": "Maximilianstr. 7",
+   "address": "Maximilianstr. 7, 75172 Pforzheim",
+   "plz": "75172",
+   "city": "Pforzheim",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Escaperooms-Pforzheim-75172-Pforzheim_194485"
+  },
+  {
+   "id": "189157",
+   "name": "marotte – Theater Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Kaiserallee 11",
+   "address": "Kaiserallee 11, 76133 Karlsruhe",
+   "plz": "76133",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/marotte-Theater-Karlsruhe-76133-Karlsruhe_189157"
+  },
+  {
+   "id": "192883",
+   "name": "Südwestdeutsches Kammerorchester Pforzheim",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Am Waisenhausplatz 1",
+   "address": "Am Waisenhausplatz 1, 75172 Pforzheim",
+   "plz": "75172",
+   "city": "Pforzheim",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Suedwestdeutsches-Kammerorchester-Pforzheim-75172-Pforzheim_192883"
+  },
+  {
+   "id": "190832",
+   "name": "Thermarium Wellness- & Gesundheitspark",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.64,
+   "street": "Kraichgaustr. 14",
+   "address": "Kraichgaustr. 14, 76669 Bad Schönborn",
+   "plz": "76669",
+   "city": "Bad Schönborn",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Thermarium-Wellness-Gesundheitspark-76669-Bad-Schoenborn_190832"
+  },
+  {
+   "id": "190826",
+   "name": "Klabauterland",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.38,
+   "street": "Lochwiesen 4",
+   "address": "Lochwiesen 4, 76661 Philippsburg",
+   "plz": "76661",
+   "city": "Philippsburg",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Klabauterland-76661-Philippsburg_190826"
+  },
+  {
+   "id": "188745",
+   "name": "Minigolfanlage Karlsruhe",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Beiertheimer Allee 27",
+   "address": "Beiertheimer Allee 27, 76137 Karlsruhe",
+   "plz": "76137",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Minigolfanlage-Karlsruhe-76137-Karlsruhe_188745"
+  },
+  {
+   "id": "190828",
+   "name": "Reptilium Terrarien- u. Wüstenzoo",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.57,
+   "street": "Werner-Heisenberg-Str. 1",
+   "address": "Werner-Heisenberg-Str. 1, 76829 Landau in der Pfalz",
+   "plz": "76829",
+   "city": "Landau in der Pfalz",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Reptilium-Terrarien-u-Wuestenzoo-76829-Landau-in-der-Pfalz_190828"
+  },
+  {
+   "id": "189454",
+   "name": "Adrenalin",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Schwarzwaldhochstr.",
+   "address": "Schwarzwaldhochstr., 77815 Bühl",
+   "plz": "77815",
+   "city": "Bühl",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Adrenalin-77815-Buehl_189454"
+  },
+  {
+   "id": "190814",
+   "name": "Mehliskopf",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Stadtwald 4",
+   "address": "Stadtwald 4, 77815 Bühl-Sand",
+   "plz": "77815",
+   "city": "Bühl-Sand",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Mehliskopf-77815-Buehl-Sand_190814"
+  },
+  {
+   "id": "188751",
+   "name": "Squash-Treff",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Bannwaldallee 38",
+   "address": "Bannwaldallee 38, 76185 Karlsruhe",
+   "plz": "76185",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Squash-Treff-76185-Karlsruhe_188751"
+  },
+  {
+   "id": "190802",
+   "name": "The Rock Kletterhalle",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Ziegelstr. 1",
+   "address": "Ziegelstr. 1, 76185 Karlsruhe",
+   "plz": "76185",
+   "city": "Karlsruhe",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/The-Rock-Kletterhalle-76185-Karlsruhe_190802"
+  },
+  {
+   "id": "189454",
+   "name": "Adrenalin",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Raumünzach 6",
+   "address": "Raumünzach 6, 76596 Forbach",
+   "plz": "76596",
+   "city": "Forbach",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Adrenalin-76596-Forbach_189454"
+  },
+  {
+   "id": "192882",
+   "name": "Theater im Uhlandbau Mühlacker",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Uhlandstr. 7",
+   "address": "Uhlandstr. 7, 75417 Mühlacker",
+   "plz": "75417",
+   "city": "Mühlacker",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Theater-im-Uhlandbau-Muehlacker-75417-Muehlacker_192882"
+  },
+  {
+   "id": "190836",
+   "name": "Hockenheimring INSIDER TOUR",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Am Motodrom 1",
+   "address": "Am Motodrom 1, 68766 Hockenheim",
+   "plz": "68766",
+   "city": "Hockenheim",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Hockenheimring-INSIDER-TOUR-68766-Hockenheim_190836"
+  },
+  {
+   "id": "190833",
+   "name": "bellamar",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.22,
+   "street": "Odenwaldring",
+   "address": "Odenwaldring, 68723 Schwetzingen",
+   "plz": "68723",
+   "city": "Schwetzingen",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/bellamar-68723-Schwetzingen_190833"
+  },
+  {
+   "id": "190834",
+   "name": "Märchenparadies Heidelberg",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.36,
+   "street": "Königstuhl 5 a",
+   "address": "Königstuhl 5 a, 69117 Heidelberg",
+   "plz": "69117",
+   "city": "Heidelberg",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Maerchenparadies-Heidelberg-69117-Heidelberg_190834"
+  },
+  {
+   "id": "190801",
+   "name": "Funnygolf Ettlingen",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 3.93,
+   "street": "Einsteinstr. 55",
+   "address": "Einsteinstr. 55, 76275 Ettlingen",
+   "plz": "76275",
+   "city": "Ettlingen",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Funnygolf-Ettlingen-76275-Ettlingen_190801"
+  },
+  {
+   "id": "191523",
+   "name": "LEGOLAND Deutschland Resort",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.14,
+   "street": "LEGOLAND Allee 1",
+   "address": "LEGOLAND Allee 1, 89312 Günzburg",
+   "plz": "89312",
+   "city": "Günzburg",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/LEGOLAND-Deutschland-Resort-89312-Guenzburg_191523"
+  },
+  {
+   "id": "190861",
+   "name": "Lasertag Factory Ettlingen",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Einsteinstr. 55",
+   "address": "Einsteinstr. 55, 76275 Ettlingen",
+   "plz": "76275",
+   "city": "Ettlingen",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Lasertag-Factory-Ettlingen-76275-Ettlingen_190861"
+  },
+  {
+   "id": "193067",
+   "name": "Movie Park Germany",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 3.29,
+   "street": "Warner-Allee 1",
+   "address": "Warner-Allee 1, 46244 Bottrop",
+   "plz": "46244",
+   "city": "Bottrop",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Movie-Park-Germany-46244-Bottrop_193067"
+  },
+  {
+   "id": "190838",
+   "name": "Treffpunkt Minigolf",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": null,
+   "street": "Weiherstr. 34 a",
+   "address": "Weiherstr. 34 a, 76327 Pfinztal",
+   "plz": "76327",
+   "city": "Pfinztal",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Treffpunkt-Minigolf-76327-Pfinztal_190838"
+  },
+  {
+   "id": "190812",
+   "name": "Walzbachbad Hallen- und Freibad",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.0,
+   "street": "Kanalstr. 69",
+   "address": "Kanalstr. 69, 76356 Weingarten (Baden)",
+   "plz": "76356",
+   "city": "Weingarten (Baden)",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Walzbachbad-Hallen-und-Freibad-76356-Weingarten-Baden_190812"
+  },
+  {
+   "id": "192881",
+   "name": "Fussballgolfpark Südpfalz",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 5.0,
+   "street": "Rheinzaberner Str. 1",
+   "address": "Rheinzaberner Str. 1, 76870 Kandel",
+   "plz": "76870",
+   "city": "Kandel",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Fussballgolfpark-Suedpfalz-76870-Kandel_192881"
+  },
+  {
+   "id": "190827",
+   "name": "Fahrzeugmuseum Marxzell",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.75,
+   "street": "Albtalstr. 2",
+   "address": "Albtalstr. 2, 76359 Marxzell",
+   "plz": "76359",
+   "city": "Marxzell",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Fahrzeugmuseum-Marxzell-76359-Marxzell_190827"
+  },
+  {
+   "id": "190831",
+   "name": "Thermarium Wellness- & Gesundheitspark - Salzgrotte",
+   "categories": [
+    "leisure"
+   ],
+   "cuisines": [],
+   "rating": 4.2,
+   "street": "Kraichgaustr. 14",
+   "address": "Kraichgaustr. 14, 76669 Bad Schönborn",
+   "plz": "76669",
+   "city": "Bad Schönborn",
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "type": "2fuer1",
+   "remaining": 1,
+   "url": "https://gutscheinbuch.de/Gutschein/Thermarium-Wellness-Gesundheitspark-Salzgrotte-76669-Bad-Schoenborn_190831"
+  }
+ ]
+}
